@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.MA_2508.20818v1_cMALC_D_Contextual_Multi_Agent_LLM_Guided_Curricu",
+  "project_type": "agent",
+  "completion_time": "2025-08-29T20:56:16.368249",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.MA_2508.20818v1_cMALC_D_Contextual_Multi_Agent_LLM_Guided_Curricu"
+}
